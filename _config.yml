@@ -6,11 +6,11 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: A Rhythm in Notion
+title: Longevity Research
 email: timothy.roy@protonmail.ch
-description: Small(er) Steps Toward a Much Better World
+description: Overview and Ways to Contribute
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "coyotespike.github.io" # the base hostname & protocol for your site
+url: "coyotespike.github.io/longevity" # the base hostname & protocol for your site
 twitter_username: coyotespike 
 github_username:  coyotespike
 paginate: 5
