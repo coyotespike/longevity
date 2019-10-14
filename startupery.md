@@ -1,9 +1,9 @@
 ---
 layout: page
-title: "Places and Ways to Get Involved"
+title: "Labs and Startups"
 permalink: /startupery/
 category: "startupery"
-tagline: "Organizations, positions, RFS"
+tagline: "Places and Ways to Get Involved: Organizations, positions, RFS"
 ---
 
 ## Jobs
