@@ -1,7 +1,15 @@
 ---
-layout: archive
-title: Startupery
-permalink: /longevity/startupery/
+layout: page
+title: "Places and Ways to Get Involved"
+permalink: /startupery/
 category: "startupery"
-tagline: "Business and finance ways to help, and companies in the space"
+tagline: "Organizations, positions, RFS"
 ---
+
+## Jobs
+- longevity.vc has job postings
+
+## Breaking Into Bio
+a16z on how biotech differs from other startups and how to get into it. 
+
+- https://a16z.com/2018/05/01/machine-learning-biology-academia-industry/
