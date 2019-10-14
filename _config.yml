@@ -10,11 +10,12 @@ title: Longevity Research
 email: timothy.roy@protonmail.ch
 description: Overview and Ways to Contribute
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "coyotespike.github.io/longevity" # the base hostname & protocol for your site
+url: "coyotespike.github.io" # the base hostname & protocol for your site
 twitter_username: coyotespike 
 github_username:  coyotespike
 paginate: 5
 theme-dark: false
+future: true
 
 plugins: [jekyll-paginate, kramdown]
 # Build settings
