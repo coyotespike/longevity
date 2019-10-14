@@ -5,7 +5,6 @@ date: 2016-04-18 19:38
 # Should be longer than 150 words, so it will appear as post summary
 description: Even if you bootstrap your way into a genuine scientific education and a minimal lab, can you make a full-time living as an independent researcher?
 # tags will also be used as html meta keywords.
-categories: ["science", "funding", "blockchain"]
 
 show_meta: true
 comments: true

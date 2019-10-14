@@ -5,7 +5,6 @@ date: 2016-08-23 21:51
 # Should be longer than 20 words, so it will appear as post summary
 description: Learning how to learn can help us get started in almost anything. How about data science?
 # tags will also be used as html meta keywords.
-categories: ["programming", "productivity", "metalearning"]
 
 show_meta: true
 comments: true

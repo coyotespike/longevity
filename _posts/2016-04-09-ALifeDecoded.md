@@ -5,8 +5,6 @@ date: "2016-04-09 12:42"
 
 description: "A quick overview of one of the most exciting stories of modern science. Venter's story has a lot to teach us about the hardball politics at the upper echelons of Big Science."
 
-categories: ["science", "book review"]
-
 show_meta: true
 comments: true
 mathjax: true
