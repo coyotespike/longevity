@@ -20,6 +20,11 @@ She also has the only good instructions online of how to help:
 
 - https://www.ldeming.com/how-to-help
 
+## Longevity and Machine Learning
+One of the authors is João Pedro de Magalhães, a well-known and passionate anti-aging scientist.
+
+- https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5350215/
+
 ## This Website
 
 This website aspires to deepen Open Philanthropy's research, and to build on Laura Deming's advice to provide immediately actionable resources for getting started.
